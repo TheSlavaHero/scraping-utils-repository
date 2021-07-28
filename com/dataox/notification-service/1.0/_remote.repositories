@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jul 28 10:55:55 CEST 2021
+#Wed Jul 28 11:39:27 CEST 2021
+notification-service-1.0.jar>denovo-linkedin=
+notification-service-1.0.pom>denovo-linkedin=
 notification-service-1.0.jar>=
 notification-service-1.0.pom>=
