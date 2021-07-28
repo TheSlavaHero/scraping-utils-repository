@@ -1,8 +1,0 @@
-com\dataox\notificationservice\configuration\NotificationsProperties$Telegram.class
-com\dataox\notificationservice\service\NotificationsServiceImpl.class
-com\dataox\notificationservice\service\SlackNotificationsServiceProvider.class
-com\dataox\notificationservice\service\NotificationsServiceProvider.class
-com\dataox\notificationservice\service\TelegramNotificationsServiceProvider.class
-com\dataox\notificationservice\configuration\NotificationsProperties.class
-com\dataox\notificationservice\service\NotificationsService.class
-com\dataox\notificationservice\configuration\NotificationsProperties$Slack.class
