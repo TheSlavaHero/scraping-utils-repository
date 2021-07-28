@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 28 10:56:20 CEST 2021
+jsoup-utils-1.0.jar>=
+jsoup-utils-1.0.pom>github=
+jsoup-utils-1.0.jar>denovo-linkedin=
+jsoup-utils-1.0.pom>denovo-linkedin=
+jsoup-utils-1.0.pom>=
+jsoup-utils-1.0.jar>github=
